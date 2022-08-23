@@ -1,0 +1,12 @@
+body {
+  background-color: #222;
+}
+div {
+  padding: 150px 0 0 0;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  text-align: center;
+  font-size: 6em;
+}
